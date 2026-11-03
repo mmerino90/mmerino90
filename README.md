@@ -74,11 +74,6 @@ Every project starts as a question I couldn't answer yet.
 
 Internships and graduate roles in **fintech, quantitative finance and ML engineering**.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mmerino90&show_icons=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmerino90&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6" alt="Top languages" />
-</p>
-
 [manuelmerino.vercel.app](https://manuelmerino.vercel.app) · [LinkedIn](https://www.linkedin.com/in/manuel-merino-21a586275/) · [mmerinojr05@gmail.com](mailto:mmerinojr05@gmail.com)
 
 <sub>Weights updated continuously. Last eval: November 2026.</sub>
